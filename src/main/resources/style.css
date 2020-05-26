@@ -1,0 +1,17 @@
+.blue {
+    -fx-background-color: blue;
+}
+
+.red {
+    -fx-background-color: red;
+}
+
+.green {
+    -fx-background-color: green;
+}
+
+.title {
+
+    -fx-font-size: 24pt;
+
+}
